@@ -55,7 +55,7 @@ int main(){
     
     //condition is if both player and computer chooses the same number
     if (player == computer) {
-        cout << "Its a draw both chose the same!" << endl;
+        cout << "It's a draw both chose the same!" << endl;
     }    
 
     // winning conditions if the player chooses 1
